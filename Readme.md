@@ -112,10 +112,15 @@ Log transformation of the target is used to:
 **9.Project Structure**
 
 ├── preprocessing.ipynb
+
 ├── model_training.ipynb
+
 ├── data_fetcher.py
+
 ├── 24113039_report.pdf
+
 ├── 24113039_final.csv
+
 ├── README.md
 
 **10. How to Run the Project**
@@ -180,3 +185,4 @@ Skipping or reordering steps will break the workflow.
 
 
 **Institution:** Indian Institute of Technology, Roorkee
+
